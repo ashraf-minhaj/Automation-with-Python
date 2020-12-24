@@ -1,0 +1,14 @@
+# === make exe === #
+$ pip install auto-py-to-exe
+
+documentation - 
+https://dev.to/eshleron/how-to-convert-py-to-exe-step-by-step-guide-3cfi
+
+1. Run from cmd-
+$ auto-py-to-exe
+
+2. Select your python file
+3. Click additional files and select images, music files
+4. click convert
+5. Wait for it
+6. Open output folder, the exe file is just there
